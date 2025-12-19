@@ -3,7 +3,7 @@ kind: Cluster
 metadata:
   name: gitops-pg-cluster
 spec:
-  instances: 3
+  instances: 2
   storage:
     size: 10Gi
 
